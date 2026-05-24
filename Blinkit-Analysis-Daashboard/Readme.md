@@ -1,7 +1,6 @@
 # 🛒 Blinkit Grocery Sales Dashboard
+<img width="994" height="456" alt="Blinkit Dasboard image" src="https://github.com/user-attachments/assets/10d6be7b-dba3-495d-aeab-ee71e5c2eff9" />
 
-![Dashboard Preview](Blinkit_Dasboard[Blinkit Project.xlsx](https://github.com/user-attachments/files/28188891/Blinkit.Project.xlsx)
-_image.PNG)
 
 ## 📋 Project Overview
 
