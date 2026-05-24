@@ -9,7 +9,7 @@ This repository includes the following projects:
 
 
 1️⃣ Blinkit Grocery Sales Dashboard
-Show Image
+
 An interactive Excel dashboard built on Blinkit's grocery sales dataset — India's Last Minute App. Key features include:
 
 KPI Summary: Total Sales ($1.20M), Average Sales ($141), Total Items (8,523), and Average Rating (4.0)
@@ -22,7 +22,7 @@ Outlet Type Comparison: Total Sales, Avg Sales, and No. of Items across Supermar
 This dashboard is a powerful tool for analyzing grocery retail performance and identifying high-revenue outlet segments.
 
 2️⃣ Netflix Content Dashboard
-Show Image
+
 A comprehensive Excel dashboard analyzing Netflix's content library of 8,392 titles. Key features include:
 
 KPI Summary: Total Titles (8,392), Total Movies (5,748), Total TV Shows (2,643), Latest Release Year (2021)
